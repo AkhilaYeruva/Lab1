@@ -8,7 +8,8 @@ public float getTotalPrice() {
 
 public void setTotalPrice(float totalPrice) {
 	this.totalPrice = totalPrice;
-	System.out.println("test1");
+	System.out.println("test2");
 }
+
 
 }
